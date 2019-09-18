@@ -2,7 +2,7 @@
 
 Python module to generate dates in a variety of formats.
 
-Main functions:
+<h2>Main functions:</h2>
 
 **gen_date()**
 </br>
@@ -12,7 +12,7 @@ Returns random date in random format.
 </br>
 Takes integer input n and generates list containing n dates in random formats.
 
-**Example useage:**
+<h2>Example useage:</h2>
 
 from date_gen import gen_date, gen_date_list
 
