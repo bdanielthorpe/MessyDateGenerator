@@ -6,11 +6,11 @@ Python module to generate dates in a variety of formats.
 
 **gen_date()**
 </br>
-Returns random date in random format.
+Returns random date as string in random date format.
 
 **gen_date_list(n)**
 </br>
-Takes integer input n and generates list containing n dates in random formats.
+Takes integer input n and generates list containing n date strings.
 
 <h2>Example useage:</h2>
 
