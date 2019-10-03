@@ -1,6 +1,6 @@
 # date_generator
 
-Python module to generate dates in a variety of formats.
+Python module to generate random dates in a variety of formats.
 
 <h2>Main functions:</h2>
 
